@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Dennis-LCL/jwt-practice/issues"
   },
-  "homepage": "https://github.com/Dennis-LCL/jwt-practice#readme"
+  "homepage": "https://github.com/Dennis-LCL/jwt-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
